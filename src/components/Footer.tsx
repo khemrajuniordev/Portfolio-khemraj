@@ -5,17 +5,17 @@ const Footer = () => {
   const socialLinks = [
     {
       name: "GitHub",
-      href: "https://github.com/augusto49",
+      href: "https://github.com/khemrajuniordev",
       icon: Github,
     },
     {
       name: "LinkedIn",
-      href: "https://www.linkedin.com/in/augusto-ferreira-76810b190",
+      href: "https://www.linkedin.com/in/khemrajuniordev",
       icon: Linkedin,
     },
     {
       name: "Email",
-      href: "mailto:ferreiraaugusto918@gmail.com",
+      href: "mailto:khemrajuniordev@gmail.com",
       icon: Mail,
     },
   ];
@@ -27,7 +27,7 @@ const Footer = () => {
           {/* Logo/Name */}
           <div className="text-center md:text-left">
             <h3 className="text-xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Augusto Ferreira
+              Khemraj Junior
             </h3>
             <p className="text-sm text-muted-foreground mt-1">
               Desenvolvedor Full Stack & Mobile
@@ -91,7 +91,7 @@ const Footer = () => {
         {/* Bottom */}
         <div className="flex flex-col md:flex-row justify-between items-center gap-4 text-sm text-muted-foreground">
           <p>
-            © {new Date().getFullYear()} Augusto Ferreira da Silva. Todos os
+            © {new Date().getFullYear()} Khemraj Junior. Todos os
             direitos reservados.
           </p>
           <p className="flex items-center gap-1">

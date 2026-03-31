@@ -31,10 +31,10 @@ const Contact = () => {
                     <div className="flex-1">
                       <h3 className="font-semibold mb-1">Email</h3>
                       <a
-                        href="mailto:ferreiraaugusto918@gmail.com"
+                        href="mailto:khemrajuniordev@gmail.com"
                         className="text-muted-foreground hover:text-primary transition-colors"
                       >
-                        ferreiraaugusto918@gmail.com
+                        khemrajuniordev@gmail.com
                       </a>
                     </div>
                   </div>
@@ -82,7 +82,7 @@ const Contact = () => {
 
                 <div className="space-y-4 w-full max-w-sm">
                   <a
-                    href="mailto:ferreiraaugusto918@gmail.com"
+                    href="mailto:khemrajuniordev@gmail.com"
                     className="block"
                   >
                     <Button
@@ -95,7 +95,7 @@ const Contact = () => {
                   </a>
 
                   <a
-                    href="https://www.linkedin.com/in/augusto-ferreira-76810b190"
+                    href="https://www.linkedin.com/in/khemrajuniordev"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="block"

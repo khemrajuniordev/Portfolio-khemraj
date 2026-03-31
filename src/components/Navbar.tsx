@@ -94,7 +94,7 @@ const Navbar = () => {
                 </div>
               </div>
               <span className="font-bold text-lg hidden sm:block">
-                <span className="text-primary">Augusto</span>
+                <span className="text-primary">Khemraj</span>
                 <span className="text-muted-foreground">.dev</span>
               </span>
             </motion.a>

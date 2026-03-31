@@ -20,7 +20,7 @@
   <!-- Main content -->
   <g transform="translate(100,200)">
     <text x="0" y="0" fill="white" font-family="Inter, system-ui, sans-serif" font-size="72" font-weight="700">
-      Augusto Ferreira
+      Khemraj Junior
     </text>
     <text x="0" y="100" fill="hsl(215,20%,65%)" font-family="Inter, system-ui, sans-serif" font-size="40">
       Desenvolvedor Full Stack &amp; Mobile

@@ -67,7 +67,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-primary blur-xl opacity-50 animate-pulse-glow" />
               <img
                 src={profileImg}
-                alt="Augusto Ferreira da Silva"
+                alt="Khemraj Junior"
                 className="relative w-32 h-32 rounded-full border-4 border-primary/50 shadow-primary-glow object-cover"
               />
             </motion.div>
@@ -83,7 +83,7 @@ const Hero = () => {
                 animate={{ opacity: 1 }}
                 transition={{ delay: 0.3 }}
               >
-                AUGUSTO FERREIRA DA SILVA
+                KHEMRAJ JUNIOR
               </motion.h1>
               <div className="h-1 w-32 bg-gradient-primary mx-auto rounded-full" />
               <p className="text-xl text-secondary">
@@ -130,7 +130,7 @@ const Hero = () => {
               <Tooltip>
                 <TooltipTrigger asChild>
                   <a
-                    href="https://github.com/augusto49"
+                    href="https://github.com/khemrajuniordev"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -180,7 +180,7 @@ const Hero = () => {
               <Tooltip>
                 <TooltipTrigger asChild>
                   <a
-                    href="https://www.linkedin.com/in/augusto-ferreira-76810b190"
+                    href="https://www.linkedin.com/in/khemrajuniordev"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -238,7 +238,7 @@ const Hero = () => {
               <div className="absolute inset-0 rounded-full bg-gradient-primary blur-xl opacity-50 animate-pulse-glow" />
               <img
                 src={profileImg}
-                alt="Augusto Ferreira da Silva"
+                alt="Khemraj Junior"
                 className="relative w-40 h-40 md:w-48 md:h-48 lg:w-52 lg:h-52 rounded-full border-4 border-primary/50 shadow-primary-glow object-cover"
               />
             </motion.div>
@@ -256,7 +256,7 @@ const Hero = () => {
                   animate={{ opacity: 1 }}
                   transition={{ delay: 0.3 }}
                 >
-                  AUGUSTO FERREIRA DA SILVA
+                  KHEMRAJ JUNIOR
                 </motion.h1>
                 <div className="h-1 w-32 bg-gradient-primary rounded-full" />
                 <p className="text-xl md:text-2xl text-secondary">
@@ -304,7 +304,7 @@ const Hero = () => {
                 <Tooltip>
                   <TooltipTrigger asChild>
                     <a
-                      href="https://github.com/augusto49"
+                      href="https://github.com/khemrajuniordev"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -354,7 +354,7 @@ const Hero = () => {
                 <Tooltip>
                   <TooltipTrigger asChild>
                     <a
-                      href="https://www.linkedin.com/in/augusto-ferreira-76810b190"
+                      href="https://www.linkedin.com/in/khemrajuniordev"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -408,11 +408,11 @@ const Hero = () => {
                   <span className="text-sm">(92) 9 9210-7783</span>
                 </a>
                 <a
-                  href="mailto:ferreiraaugusto918@gmail.com"
+                  href="mailto:khemrajuniordev@gmail.com"
                   className="flex items-center gap-2 hover:text-foreground transition-colors"
                 >
                   <Mail className="h-4 w-4" />
-                  <span className="text-sm">ferreiraaugusto918@gmail.com</span>
+                  <span className="text-sm">khemrajuniordev@gmail.com</span>
                 </a>
               </div>
             </div>
