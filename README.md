@@ -1,4 +1,4 @@
-# Augusto Ferreira - Portfólio
+# Khemraj Junior - Portfólio
 
 Site de portfólio profissional construído com tecnologias modernas e boas práticas de desenvolvimento.
 
